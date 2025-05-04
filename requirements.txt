@@ -4,3 +4,5 @@ torchvision==0.17.2+cpu
 fastai==2.8.1
 pillow
 numpy<2
+voila==0.5.8
+voila==0.5.8
